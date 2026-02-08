@@ -8,15 +8,15 @@ Thank you for using SecondLoop. This Privacy Policy explains how we collect, use
 
 ### 1.1 Device Identifier
 
-When you first launch SecondLoop, the app generates a random, anonymous string (referred to as a "Device ID") in the format `device_[timestamp][random characters]`. This identifier is created locally on your device and is used solely to associate your training menus with your device. It is **not** derived from Apple's Identifier for Advertisers (IDFA), Identifier for Vendor (identifierForVendor), or any other system-level device identifier.
+When you first launch SecondLoop, the app generates a random, anonymous string (referred to as a "Device ID") in the format `device_[timestamp][random characters]`. This identifier is created locally on your device and is used solely to associate your presets with your device. It is **not** derived from Apple's Identifier for Advertisers (IDFA), Identifier for Vendor (identifierForVendor), or any other system-level device identifier.
 
-### 1.2 Training Menu Data
+### 1.2 Preset Data
 
-When you create or edit a training menu, the following data is collected:
+When you create or edit a preset, the following data is collected:
 
-- Menu title (user-provided)
+- Preset title (user-provided)
 - Preparation time (seconds)
-- Training time (seconds)
+- Work time (seconds)
 - Rest time (seconds)
 - Number of repetitions
 
@@ -37,8 +37,8 @@ The information we collect is used exclusively for the following purposes:
 
 | Data | Purpose |
 |------|---------|
-| Device ID | To associate your training menus with your device so they can be synced and retrieved |
-| Training Menu Data | To save, sync, and display your custom interval training configurations |
+| Device ID | To associate your presets with your device so they can be synced and retrieved |
+| Preset Data | To save, sync, and display your custom interval timer configurations |
 
 We do **not** use your data for advertising, profiling, marketing, or any purpose other than providing core app functionality.
 
@@ -66,7 +66,7 @@ We do **not** sell, rent, trade, or otherwise share your data with any third par
 
 ## 5. Data Retention
 
-Your training menu data and Device ID are retained in our cloud database for as long as you use the app. If you delete the app from your device, your locally stored data is automatically removed. Cloud-stored data may persist on our servers until you request its deletion (see Section 6).
+Your preset data and Device ID are retained in our cloud database for as long as you use the app. If you delete the app from your device, your locally stored data is automatically removed. Cloud-stored data may persist on our servers until you request its deletion (see Section 6).
 
 ## 6. Your Rights
 
@@ -74,7 +74,7 @@ You have the following rights regarding your data:
 
 ### 6.1 Data Deletion
 
-You can request the complete deletion of all your data (including your Device ID and all associated training menus) from our cloud servers by contacting us at the email address provided in Section 9. We will process your request within 30 days.
+You can request the complete deletion of all your data (including your Device ID and all associated presets) from our cloud servers by contacting us at the email address provided in Section 9. We will process your request within 30 days.
 
 ### 6.2 Local Data Deletion
 
