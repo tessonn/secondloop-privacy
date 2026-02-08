@@ -96,7 +96,7 @@ We may update this Privacy Policy from time to time. When we make changes, we wi
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
-**Email:** tessonn@users.noreply.github.com
+**Email:** tessonn@gmail.com
 
 ---
 
