@@ -1,14 +1,14 @@
-# Privacy Policy for TickTimer
+# Privacy Policy for SecondLoop
 
 **Last Updated: February 8, 2026**
 
-Thank you for using TickTimer. This Privacy Policy explains how we collect, use, store, and protect your information when you use our iOS application. We are committed to being transparent about our data practices and respecting your privacy.
+Thank you for using SecondLoop. This Privacy Policy explains how we collect, use, store, and protect your information when you use our iOS application. We are committed to being transparent about our data practices and respecting your privacy.
 
 ## 1. Information We Collect
 
 ### 1.1 Device Identifier
 
-When you first launch TickTimer, the app generates a random, anonymous string (referred to as a "Device ID") in the format `device_[timestamp][random characters]`. This identifier is created locally on your device and is used solely to associate your training menus with your device. It is **not** derived from Apple's Identifier for Advertisers (IDFA), Identifier for Vendor (identifierForVendor), or any other system-level device identifier.
+When you first launch SecondLoop, the app generates a random, anonymous string (referred to as a "Device ID") in the format `device_[timestamp][random characters]`. This identifier is created locally on your device and is used solely to associate your training menus with your device. It is **not** derived from Apple's Identifier for Advertisers (IDFA), Identifier for Vendor (identifierForVendor), or any other system-level device identifier.
 
 ### 1.2 Training Menu Data
 
@@ -86,7 +86,7 @@ You can request a copy of the data we hold about you by contacting us at the ema
 
 ## 7. Children's Privacy
 
-TickTimer is suitable for users of all ages. We do **not** knowingly collect personal information from children under the age of 13 (or the applicable age in your jurisdiction). Since we do not collect any personal information from any user, there is no risk of inadvertently collecting data from children. If you believe that we have inadvertently collected data from a child, please contact us immediately and we will take steps to delete such information.
+SecondLoop is suitable for users of all ages. We do **not** knowingly collect personal information from children under the age of 13 (or the applicable age in your jurisdiction). Since we do not collect any personal information from any user, there is no risk of inadvertently collecting data from children. If you believe that we have inadvertently collected data from a child, please contact us immediately and we will take steps to delete such information.
 
 ## 8. Changes to This Privacy Policy
 
